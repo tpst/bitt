@@ -1,0 +1,61 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" x:Class="MarketView" 
+             xmlns:local="clr-namespace:BitTrader_1._0"
+             mc:Ignorable="d" 
+             d:DesignHeight="347" d:DesignWidth="586">
+    <Grid Margin="0,10,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="0,0,0,5" Background="BlanchedAlmond">
+            <!--Header image-->
+        </Grid>
+
+
+        <dxb:BarManager x:Name="BarManager" Grid.Row="1" AllowCustomization="False" AllowQuickCustomization="False" CreateStandardLayout="False">
+            <dxb:BarManager.Bars>
+                <!--Options-->
+                <dxb:Bar x:Name="mainMenuBar" Caption="Main Menu" IsMainMenu="True">
+                    <dxb:Bar.DockInfo>
+                        <dxb:BarDockInfo ContainerType="Top"/>
+                    </dxb:Bar.DockInfo>
+                    <dxb:Bar.ItemLinks>
+                        <dxb:BarSubItemLink BarItemName="bsOptions"/>
+                        
+                    </dxb:Bar.ItemLinks>
+                </dxb:Bar>
+                <!--Bottom Status Bar-->
+                <dxb:Bar x:Name="statusBar" Caption="Status Bar" IsStatusBar="True">
+                    <dxb:Bar.DockInfo>
+                        <dxb:BarDockInfo ContainerType="Bottom"/>
+                    </dxb:Bar.DockInfo>
+                </dxb:Bar>
+            </dxb:BarManager.Bars>
+            <dxb:BarManager.Items>
+                <dxb:BarSubItem Name="bsOptions" Content="Options"/>
+              
+            </dxb:BarManager.Items>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.3*"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Background="Beige">
+                    
+                </StackPanel>
+                
+                
+                <local:ChartControl Grid.Column="1" Margin="5,0,5,5">
+                    
+                </local:ChartControl>
+            </Grid>
+          
+        </dxb:BarManager>
+    </Grid>
+</UserControl>

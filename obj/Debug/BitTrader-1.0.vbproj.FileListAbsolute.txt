@@ -1,0 +1,132 @@
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.exe.config
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.exe
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.pdb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.xml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.vbprojResolveAssemblyReference.cache
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\MainWindow.baml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\ChartControl.baml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\MainWindow.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\ChartControl.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\MarketView.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\Application.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_Content.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_MarkupCompile.cache
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_MarkupCompile.lref
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\MarketView.baml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.g.resources
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader_1._0.Resources.resources
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.vbproj.GenerateResource.Cache
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.exe.licenses
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.exe
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.xml
+C:\Users\jack\documents\visual studio 2013\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.pdb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.exe.config
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.pdb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.exe
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.pdb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\BitTrader-1.0.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Data.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Mvvm.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Charts.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Printing.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Ribbon.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Docking.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Layout.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Data.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Mvvm.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Charts.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Printing.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Ribbon.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Docking.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Xpf.Layout.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Charts.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Charts.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Charts.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Charts.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Printing.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Docking.v16.1.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.vbprojResolveAssemblyReference.cache
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\MainWindow.baml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\ChartControl.baml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\MainWindow.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\ChartControl.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\MarketView.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\Application.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_Content.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_MarkupCompile.cache
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0_MarkupCompile.lref
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\UI\View\MarketView.baml
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.g.resources
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader_1._0.Resources.resources
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.vbproj.GenerateResource.Cache
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.exe.licenses
+C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\BitTrader-1.0.exe
