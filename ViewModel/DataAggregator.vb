@@ -1,4 +1,6 @@
-﻿Imports Newtonsoft.Json
+﻿Imports System.IO
+Imports System.Xml.Serialization
+Imports Newtonsoft.Json
 
 Public Class DataAggregator
     Private webClient As System.Net.WebClient
@@ -21,6 +23,8 @@ Public Class DataAggregator
                                                                            .Date = x.time,
                                                                            .Low = If(x.low, 0),
                                                                             .High = If(x.high, 0)}).ToList
+
+        WriteToFile(_data, "btcHistoricalData")
         Return _data
     End Function
 
@@ -32,6 +36,20 @@ Public Class DataAggregator
 
     End Sub
 
+    Public Shared Sub WriteToFile(ByVal type As Object, ByVal filename As String)
+        Dim currentXMLFileStream As New FileStream(String.Format("{0}.xml", filename), FileMode.Create)
+
+        Try
+            Dim serializer As New XmlSerializer(type.GetType)
+            serializer.Serialize(currentXMLFileStream, type)
+
+        Catch ex As Exception
+            MessageBox.Show(ex.ToString)
+        Finally
+            currentXMLFileStream.Close()
+            currentXMLFileStream = Nothing
+        End Try
+    End Sub
 
 End Class
 

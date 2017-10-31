@@ -11,7 +11,7 @@ Public Class RealTimeDataManager
     Dim webClient As System.Net.WebClient
     Dim jsonResult As String
 
-    Private _data As List(Of Data)
+    Private _data As List(Of DataPoint)
 
     Public Api As CSVParser
     Public Sub New()
@@ -20,11 +20,11 @@ Public Class RealTimeDataManager
         Data = Api.CSVtoTradeData
     End Sub
 
-    Public Property Data As List(Of Data)
+    Public Property Data As List(Of DataPoint)
         Get
             Return _data
         End Get
-        Set(value As List(Of Data))
+        Set(value As List(Of DataPoint))
             _data = value
         End Set
     End Property

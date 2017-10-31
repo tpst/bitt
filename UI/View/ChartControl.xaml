@@ -26,7 +26,6 @@
                 </dxb:Bar>
             </dxb:BarManager.Bars>
             <dxb:BarManager.Items>
-                
                 <dxb:BarSubItem Name="bsOptions" Content="Chart Options"/>
                 <dxb:BarSubItem Name="bsDisplayPeriod1" Content="1w"/>
                 <dxb:BarSubItem Name="bsDisplayPeriod2" Content="3d"/>
@@ -37,7 +36,7 @@
             </dxb:BarManager.Items>
             <Grid>
                 <dxc:ChartControl Name="chart" BorderThickness="0" CrosshairEnabled="False" >
-                    <dxc:XYDiagram2D>
+                    <dxc:XYDiagram2D EnableAxisXNavigation="True" >
                         <dxc:XYDiagram2D.AxisX>
                             <dxc:AxisX2D x:Name="axisX" >
                                 <dxc:AxisX2D.DateTimeScaleOptions>
@@ -73,6 +72,8 @@
                             </dxc:LineSeries2D.LineStyle>
                             <dxc:LineSeries2D.Indicators>
                                 <dxc:RegressionLine Visible="{Binding ElementName=cbShowRegressionLines, Path=IsChecked}"/>
+                                <dxc:ExponentialMovingAverage Visible="True" PointsCount="7"/>
+                                <dxc:ExponentialMovingAverage Visible="True" PointsCount="30"/>
                             </dxc:LineSeries2D.Indicators>
                         </dxc:LineSeries2D>
 

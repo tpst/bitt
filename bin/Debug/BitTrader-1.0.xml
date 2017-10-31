@@ -64,6 +64,16 @@ ChartControl
 InitializeComponent
 </summary>
 </member>
+<member name="T:BitTrader_1._0.IndicatorControl">
+<summary>
+IndicatorControl
+</summary>
+</member>
+<member name="M:BitTrader_1._0.IndicatorControl.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:BitTrader_1._0.MarketView">
 <summary>
 MarketView
@@ -73,6 +83,11 @@ MarketView
 <summary>
 InitializeComponent
 </summary>
+</member>
+<member name="T:BitTrader_1._0.RSIModel">
+ <summary>
+ Relative Strength Indicator
+ </summary>
 </member>
 <member name="T:BitTrader_1._0.Application">
 <summary>

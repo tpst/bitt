@@ -21,7 +21,7 @@ Public Class ChartControl
 
         'Dim argument As Date = Date.Now
 
-        ''axisX.WholeRange.SetMinMaxValues(argument.AddMinutes(-10), argument)
+        'axisX.WholeRange.SetMinMaxValues(argument.AddYears(-1), argument)
 
     End Sub
 

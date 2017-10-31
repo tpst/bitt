@@ -63,8 +63,8 @@ Public Class DataRequest
             _myDataManager = parent
         End Sub
 
-        Public Function CSVtoTradeData() As List(Of Data)
-            Dim list As New List(Of Data)
+        Public Function CSVtoTradeData() As List(Of DataPoint)
+            Dim list As New List(Of DataPoint)
 
             Dim afile As FileIO.TextFieldParser = New FileIO.TextFieldParser("C:\dev\Personal\BitTrader-1.0\BCHARTS.csv")
             Dim currentLine As String() ' this array will hold each line of data
@@ -80,7 +80,7 @@ Public Class DataRequest
                     If firstLine = True Then
                         firstLine = False
                     Else
-                        list.Add(New Data(currentLine(0), Double.Parse(currentLine(7))))
+                        list.Add(New DataPoint(currentLine(0), Double.Parse(currentLine(7))))
                     End If
 
                 Catch ex As FileIO.MalformedLineException

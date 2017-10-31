@@ -4,17 +4,17 @@
 winexe
 VB
 .vb
-C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\obj\Debug\
+C:\Users\jackallen\Documents\Visual Studio 2015\Projects\BitTrader-1.0\BitTrader-1.0\obj\Debug\
 BitTrader_1._0
 none
 false
 
-C:\dev\Personal\BitTrader-1.0\BitTrader-1.0\Application.xaml
-31869118567
+C:\Users\jackallen\Documents\Visual Studio 2015\Projects\BitTrader-1.0\BitTrader-1.0\Application.xaml
+4-77484403
 41092746840
-14906264368
-24758489808
-MainWindow.xaml;UI\View\ChartControl.xaml;UI\View\MarketView.xaml;
+191151097637
+241855955112
+MainWindow.xaml;UI\View\ChartControl.xaml;UI\View\IndicatorControl.xaml;UI\View\MarketView.xaml;
 
 False
 

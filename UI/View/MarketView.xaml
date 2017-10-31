@@ -38,10 +38,9 @@
             </dxb:BarManager.Bars>
             <dxb:BarManager.Items>
                 <dxb:BarSubItem Name="bsOptions" Content="Options"/>
-              
             </dxb:BarManager.Items>
             
-            <Grid>
+            <Grid x:Name="mainViewGrid">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="0.3*"/>
                     <ColumnDefinition />
@@ -49,11 +48,15 @@
                 <StackPanel Grid.Column="0" Background="Beige">
                     
                 </StackPanel>
-                
-                
-                <local:ChartControl Grid.Column="1" Margin="5,0,5,5">
-                    
-                </local:ChartControl>
+
+                <Grid x:Name="DisplayGrid" Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="7*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <local:ChartControl x:Name="mainChart" Grid.Row="0" Margin="5,0,5,5"/>
+                    <local:IndicatorControl x:Name="indicator" Grid.Row="1"/>
+                </Grid>
             </Grid>
           
         </dxb:BarManager>

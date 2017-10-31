@@ -1,11 +1,10 @@
 ﻿Public Class TradeData
 
-
-
-
-    Public Class Data
+    Public Class DataPoint
         Public Property Name As String
         Public Property TimeStamp As String
+
+        Public Property TS As TimeSpan
         Public Property Last As Double
         Public Property Open As Double
         Public Property Close As Double
@@ -29,9 +28,8 @@
         ' Alternative? https://www.quandl.com/collections/markets/bitcoin-data
         ' Thanks http://json2csharp.com/
 
-
-        Public Function ConvertToDataPt() As Data
-            Dim data As New Data With {.TimeStamp = TimeStamp, .Name = Name, .Last = Symbols.btceur.last,
+        Public Function ConvertToDataPt() As DataPoint
+            Dim data As New DataPoint With {.TimeStamp = TimeStamp, .Name = Name, .Last = Symbols.btceur.last, .TS = TimeSpan.Parse(TimeStamp),
                                        .Volume = Symbols.btceur.volume}
 
             Return data
